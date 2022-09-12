@@ -1,0 +1,15 @@
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\bin\Debug\net6.0\Assignment1.exe
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\bin\Debug\net6.0\ref\Assignment1.dll
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\Users\aafaq\OneDrive\Desktop\COMP-123-003 PROGRAMMING\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
